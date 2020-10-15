@@ -2,7 +2,7 @@
 A small script that convert MySQL query into Google BigQuery  
 
 # Parameters and configurations
-MySQL configuration file is under config's folder. 
+You can find the configuration file under config's folder. 
 There are 2 config files, which is **dev.py** and **prod.py**.
 * dev.py is for development environment
 
