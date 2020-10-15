@@ -70,7 +70,7 @@ mysql = {
 
 3.Software dependencies
 
-This program is requires **pmysql,google,gcloud**  dependency to be working, first thing to do is install **pmysql,google,gcloud** under you operating system.
+This program requires **pmysql,google,gcloud**  dependency to be working, first thing to do is install **pmysql,google,gcloud** under you operating system.
 
 4.Running the program
 
