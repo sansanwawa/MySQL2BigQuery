@@ -76,7 +76,7 @@ This program requires **pmysql,google,gcloud**  dependency to be working, first 
 
 To run the program, you can copy entire folder that already have python files.
 
-Then is simply run the project by running : 
+Then it is simply execute the project by running : 
 
 ```bash
 $ python3 main.py
